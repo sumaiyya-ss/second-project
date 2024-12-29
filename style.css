@@ -1,0 +1,262 @@
+.logo{
+    background-color: black;
+    height: 40px;
+    display: flex; 
+    
+}
+
+.main{
+background-color: aliceblue;
+height: 50px;   
+text-align: right;
+ text-decoration: none;
+padding-top: 10px; 
+font-weight:bolder;
+color: black; 
+word-spacing: 30px;
+text-transform: uppercase;
+gap: 30px;
+}
+.bi-facebook{ 
+    height: 20px;
+color: aliceblue;
+margin-left: 20px;
+}
+.bi-whatsapp{
+    height: 20px;
+    
+    color: aliceblue;
+}
+.bi-instagram{
+    height: 20px;
+    color: aliceblue;
+}
+.bi-bag-check{
+    color: aliceblue;
+    height: 20px;
+    
+}
+.submit{
+    float: right;
+    margin-left: 1500px;
+    margin-top: 5px;
+    }
+
+
+.text{
+    padding-top: 50px;
+    background-image: url(./bg.html);
+    height: 400px;
+    word-spacing: 20px;
+    text-align: center;
+}
+.adv{
+    background-color:bisque;
+    height: 400px;
+    text-transform: uppercase;
+    text-align: center;
+    border-radius: 60%;  
+}
+.bulb{
+    
+    height:100px ;
+    border-radius:50%;
+    background-color:aliceblue;
+}
+.chat{
+    height: 100px;
+    border-radius: 50%;
+
+}
+.thumb{
+    height: 100px;
+    border-radius: 50%;
+}
+.clock{
+    height: 100px;
+    border-radius: 50%;
+}
+.client{
+    height: 100px;
+    border-radius: 50%;
+}
+.ab{
+    display: flex;
+    background-color: rgba(240, 237, 237, 0.815);
+    height: 500px;
+}
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bolder;
+}
+.a{
+    text-align: left;
+    margin: 20px;
+}
+.b{ align-content: center;
+
+}
+.img2{
+    height: 300px;
+    width: 700px;
+   
+}
+.learnmore{
+   background-color: yellow; color:black;
+}
+.serv{
+    background-color: aliceblue;
+    height: 200px;
+    text-align: center;
+}
+.daba{
+    height: 200px;
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: row;
+    align-items:end;
+    justify-content: center;
+    gap: 100px;
+    padding-bottom: 20px;
+}
+.daba1{
+    background-color:rgb(216, 214, 214);
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    
+    
+}
+.daba2{
+    background-color:rgb(216, 214, 214);
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+.daba3{
+    background-color:rgb(216, 214, 214) ;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+.daba4{
+    background-color: rgb(216, 214, 214);
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+
+
+.pf{ color: antiquewhite;
+    background-color: black;
+    height: 200px;
+    text-align: center;
+}
+.p1{ 
+    height: 500px;
+    background-color: black;
+    justify-content: center;
+    padding-left: 500px;
+     color: white;
+}
+
+.pro{
+    background-color: lightblue;
+    height: 200px;
+    text-align: center;
+}
+.cir{
+    display: flex;
+    flex-direction: row;
+    gap: 75px;
+    background-color: lightblue;
+    height: 300px;
+    color: black;
+    justify-content: center;
+    align-items: center;
+}
+.cir1{
+    
+    background-color:white;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+
+.cir2{
+    border-radius: 50%;
+    background-color: white;
+    height: 200px;
+    width: 200px;
+}
+.cir3{
+    border-radius: 50%;
+    background-color: white;
+    height: 200px;
+    width: 200px;
+}
+.cir4{
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    border-radius: 50%;
+}
+.cir5{
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    border-radius: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.rev{
+    background-color:lightcoral ;
+    height: 200px;
+    text-align: center;
+}
+.skill{
+    background-color: antiquewhite;
+    height: 150px;
+    text-align: center;
+}
+.percentage{
+    height: 250px;
+    background-color: antiquewhite;
+    padding-left: 500px;
+
+}
+.newproject{
+    background-color: lime;
+    height: 200px;
+    color: black;
+    text-align: center; 
+    padding-top: 20px;
+}
+    
+    
+    
+    .contact{
+    background-color: aliceblue;
+    height: 200px;
+    text-align: center;
+    }
+    .map{
+        height: 600px;
+        background-color: aliceblue;
+        padding-left: 500px;
+    }
